@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 
 ## Introduction
-Welcome to the **Data Analyst Portfolio** repository! This portfolio is a comprehensive showcase of my data analysis skills and projects, reflecting my experience as a Data Analyst at **The Best Trust English Center** and **Hoan Thủy Wood Shop**. The projects here demonstrate my ability to derive meaningful insights from complex datasets and support strategic decision-making.
+Welcome to the **Data Analyst Portfolio** repository! This portfolio is a comprehensive showcase of my data analysis skills and projects, reflecting my experience as a Data Analyst The projects here demonstrate my ability to derive meaningful insights from complex datasets and support strategic decision-making.
 
 ## Project Goals
 * **Insightful Analysis**: Provide deep insights into customer behavior, sales trends, and operational efficiency.  
